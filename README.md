@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SunkenHero aka Tobias
 - 👀 I’m interested in Linux, programming and electronics
 - 🌱 I’m currently learning somemore aboout Linux
-- 💞️ I’m looking to collaborate on actually nothing right now
+- 💞️ I’m looking to collaborate for actually nothing right now
 - 📫 You can't reach me currently as its not nessesary
 
 <!---
